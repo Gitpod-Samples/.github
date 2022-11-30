@@ -10,7 +10,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.new)
 
 - 📚 Interested in learning more about Gitpod? [Check out out our Documentation](https://www.gitpod.io/docs/introduction)
-- 💡 You have a tutorial to submit, or contributions to existing tutorials? We would love to see this org grow 🌱 [Open an issue](https://github.com/Gitpod-Samples/.github/issues) 
+- 💡 You have a tutorial to submit, or contributions to existing tutorials? We would love to see this org grow 🌱 [Open an issue](https://github.com/Gitpod-Samples/awesome-gitpod) 
 - 🦩 Feeling social? [Join our discord community](https://www.gitpod.io/chat)
 
 Check out one of our existing demos and videos:
