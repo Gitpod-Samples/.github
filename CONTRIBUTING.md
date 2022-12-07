@@ -4,7 +4,7 @@ Thank you for showing your interest in contributing to Gitpod Samples. We value 
 
 We celebrate that every person brings a unique perspective and experience to the community. 
 
-Before reporting any issues or pull requests, please read through this document to ensure we have all the information to respond effectively to your contribution.
+Before reporting any issues or pull requests, please read through this document 🙌
 
 ## Submit a new demo or tutorial using Gitpod 
 
@@ -14,7 +14,7 @@ Before reporting any issues or pull requests, please read through this document 
 
 ## Submit a new pull request in the existing repository
 
-To submit a Pull request 
+To submit a pull request 
 follow our doc on [Submitting a pull request](https://www.gitpod.io/docs/help/contribute/features-and-patches/submitting-a-pull-request)
 
 
@@ -35,4 +35,4 @@ enforcement ladder](https://github.com/mozilla/diversity).
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
 
-We ❤️ the people involved in Gitpod Samples, and we'd love to help you with contributing. Drop by the `#contributing` channel on the [Gitpod Discord server](https://www.gitpod.io/chat) and _ask for help_.
+We 🧡 all Gitpod Samples contributions! If you have any questions about contributing, drop by the `#contributing` channel on our [community Discord server](https://www.gitpod.io/chat). See you there! 👋
