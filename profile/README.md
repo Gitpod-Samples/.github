@@ -29,3 +29,6 @@
 💡 You have a tutorial to submit or contributions to existing tutorials? We would love to see this org grow 🌱 [Open an issue](https://github.com/gitpod-samples/awesome-gitpod)
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/gitpod-samples/.github/blob/HEAD/CONTRIBUTING.md) first.
+
+[![Getting Started with gitpod-samples 🪴](https://img.youtube.com/vi/KcSeDGSMexs/0.jpg)](https://youtu.be/KcSeDGSMexsY "Getting Started with gitpod-samples 🪴")
+
